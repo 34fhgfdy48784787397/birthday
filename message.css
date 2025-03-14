@@ -1,0 +1,133 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQet_CPD0Otb9_iGdpE9ngzDHq3-hpiwQjafw&s);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    font-size: 100px;
+    text-align: center;
+    color: darkred;
+    position: relative;
+    top: 10px;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+.p1 {
+    font-size: 100px;
+    color: red;
+    position: relative;
+    top: -50px;
+}
+
+.img1 {
+    position: relative;
+    left: -25px;
+}
+
+.img2 {
+    position: relative;
+    left: -30px;
+}
+
+.dt1 {
+    font-size: 40px;
+    color: red;
+}
+
+.img3 {
+    position: relative;
+    left: -27px;
+}
+
+.dt2 {
+    font-size: 70px;
+    color: red;
+}
+
+.img4 {
+    position: relative;
+    left: -30px;
+}
+
+.dt3 {
+    font-size: 50px;
+    color: red;
+}
+
+.b1 {
+    font-size: 50px;
+    text-align: right;
+    color: blue;
+}
+
+.heart {
+    font-size: 60px;
+    color: red;
+}
+
+.b2 {
+    font-size: 50px;
+    color: black;
+}
+
+.img5 {
+    position: relative;
+    top: -30px;
+}
+
+.img6 {
+    position: relative;
+    left: -33px;
+    top: -20px;
+}
+
+.b3 {
+    font-size: 50px;
+    color: red;
+    position: relative;
+    top: -20px;
+}
+
+.img7 {
+    position: relative;
+    left: -32px;
+}
+
+.p2 {
+    font-size: 70px;
+    color: black;
+    position: relative;
+    top: -30px;
+}
+
+.img8 {
+    position: relative;
+    left: -30px;
+    top: -25px;
+}
+
+.b4 {
+    font-size: 50px;
+    color: red;
+    position: relative;
+    top: -20px;
+}
+
+hr {
+    border: 2px solid black;
+    position: relative;
+    top: 40px;
+}
+
+.hhh {
+    text-align: center;
+    font-size: 100px;
+    color: black;
+
+
+}

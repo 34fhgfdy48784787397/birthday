@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: 70px;
+    background-color: gold;
+    color: red;
+    position: relative;
+    top: -47px;
+}
+
+.hr {
+    border: 2px solid black;
+    position: relative;
+    top: -94px;
+}
+
+body {
+    background-color: coral;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2 {
+    position: relative;
+    top: 50px;
+    text-align: center;
+    font-size: 70px;
+    background-color: hotpink;
+}
+
+.hh {
+    border: 2px solid black;
+    position: relative;
+    top: 107px;
+}
+div{
+    text-align: center;
+}

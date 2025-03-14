@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: 80px;
+}
+hr{
+    position: relative;
+    top: -13px;
+    border: 2px solid black;
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+    color: black;
+    position: relative;
+    top: -30px;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ahE0TLLs4Y5rYJ50dKGSs9M136YUn777wg&s);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

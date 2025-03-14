@@ -1,0 +1,84 @@
+header {
+    text-align: center;
+    font-size: 40px;
+}
+
+.imoge {
+    color: red;
+}
+
+.ooo {
+    position: relative;
+    width: 300px;
+    height: 200px;
+}
+
+.image {
+    position: absolute;
+    bottom: 1px;
+    left: 25px;
+}
+
+section {
+    text-align: center;
+    font-size: 50px;
+}
+
+em {
+    font-size: 100px;
+    text-align: center;
+}
+
+.yyy {
+    position: relative;
+    width: 200px;
+    height: 100px;
+}
+
+.yimage {
+    position: absolute;
+    bottom: 1px;
+    right: 500px;
+}
+
+footer {
+    font-size: 50px;
+    color: red;
+}
+
+.bbb {
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
+
+.rotate {
+    writing-mode: vertical-lr;
+    transform: rotate(360deg);
+    position: absolute;
+    bottom: -1400px;
+    right: 10px;
+    font-size: 320px;
+    text-align: right;
+    color: red;
+}
+
+.rottt {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    position: absolute;
+    bottom: -1400px;
+    right: 950px;
+    font-size: 320px;
+    text-align: right;
+    color: red;
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3krIG-0uhDU5iqbv2Xslwf-ZxQ4BYyy-_Yg&s);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.hr2{
+    border: 2px solid black;
+}
